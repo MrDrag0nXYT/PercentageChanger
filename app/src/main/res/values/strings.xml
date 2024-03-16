@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">PercentageChanger</string>
+    <string name="apply_button">Apply</string>
+    <string name="header_text">Change percentage</string>
+    <string name="no_root">App can\'t get ROOT access</string>
+    <string name="input_placeholder">Enter percentage value</string>
+    <string name="reset_button">Reset</string>
+    <string name="input_cant_be_empty">Input can\'t be empty!</string>
+    <string name="dont_do_that">Don\'t do that, device could probably shutdown</string>
+</resources>

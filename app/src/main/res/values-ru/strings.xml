@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply_button">Применить</string>
+    <string name="header_text">Скачать батарейку (МОД: много процентов)</string>
+    <string name="no_root">Приложению не удалось получить ROOT доступ</string>
+    <string name="input_placeholder">Введите число</string>
+    <string name="reset_button">Сбросить</string>
+    <string name="input_cant_be_empty">Введённое число не может быть пустым!</string>
+    <string name="dont_do_that">Не надо так делать, устройство так-то может отключиться</string>
+</resources>
